@@ -1,0 +1,321 @@
+@media (max-width: 1400px) {
+}
+@media (max-width: 1276px) {
+}
+
+@media (max-width: 1200px) {
+  .clients-item img {
+    margin-left: -170px;
+  }
+  .my-work a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 12px 405px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 80px;
+    margin-left: -88px;
+    text-align: center;
+    margin: auto;
+  }
+  .services-item h3 {
+    color: #db9a64;
+    font-weight: 400;
+    margin-bottom: 13px;
+    font-size: 23px;
+  }
+  .services-item p {
+    font-size: 12px;
+    color: #c9c9c9;
+    line-height: 28px;
+    margin-bottom: 0;
+    font-weight: 300;
+  }
+  .creative-left h3 {
+    font-size: 22px;
+    line-height: 1.6em;
+    margin-bottom: 50px;
+  }
+  .creative-left p {
+    font-size: 13px;
+    line-height: 28px;
+    color: #c9c9c9;
+    margin-bottom: 20px;
+  }
+  .header-top-middle ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #db9a64;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .hdb-left h3 {
+    font-size: 55px;
+    text-transform: capitalize;
+    font-weight: 300;
+    line-height: 90px;
+    color: #fff;
+  }
+  .hdb-left {
+    margin-top: 100px;
+  }
+  .hdb-left h3 {
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 300;
+    line-height: 90px;
+    color: #fff;
+  }
+  .hdb-left a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 10px 34px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+  }
+}
+@media (max-width: 1068px) {
+}
+
+@media (max-width: 992px) {
+  .clients-item img {
+    margin-left: -414px;
+  }
+  .my-work a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 12px 405px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 80px;
+    margin-left: -88px;
+    text-align: center;
+    margin: auto;
+    width: 150px;
+  }
+  .services-item h3 {
+    color: #db9a64;
+    font-weight: 400;
+    margin-bottom: 13px;
+    font-size: 14px;
+  }
+  .creative-left h3 {
+    font-size: 17px;
+    line-height: 1.6em;
+    margin-bottom: 50px;
+  }
+  .header-top-middle ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #db9a64;
+    margin-left: 13px;
+    font-size: 11px;
+    font-weight: 500;
+  }
+  .header-top-right a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 7px 33px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+    margin-left: 67px;
+  }
+  .header-top-left h3 {
+    color: #db9a64;
+    margin-top: 30px;
+    font-size: 1.45rem;
+  }
+}
+@media (max-width: 856px) {
+  .my-work a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 12px 250px;
+    font-weight: 600;
+    transition: 0.4s;
+    text-align: center;
+    margin: auto;
+    width: 150px;
+  }
+  .header-top-right a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 7px 33px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .clients-item img {
+    margin-left: -592px;
+  }
+  .header-top-right a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 6px 22px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+    margin-left: 55px;
+  }
+  element {
+    color: #db9a64;
+    margin-left: 437px;
+    margin-top: -70px;
+  }
+  .footer-top-title h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+}
+@media (max-width: 656px) {
+  .footer-top-title .jhamela {
+    margin-left: 100px;
+  }
+  .header-top-right a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 4px 18px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+    margin-left: 19px;
+    font-size: 12px;
+  }
+  .header-top-left h3 {
+    color: #db9a64;
+    margin-top: 30px;
+    font-size: 1.15rem;
+  }
+  .header-top-middle ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #db9a64;
+    margin-left: 3px;
+    font-size: 9px;
+    font-weight: 500;
+  }
+  .hdb-left h3 {
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: 300;
+    line-height: 90px;
+    color: #fff;
+  }
+
+  .hdb-left a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 10px 34px;
+    font-weight: 600;
+    transition: 0.4s;
+    margin-top: 30px;
+    margin-top: -70px;
+  }
+  .hdb-left .heade3 {
+    position: relative;
+    top: -40px;
+  }
+  .ft-item a.btn {
+    color: #fff;
+    display: inline-block;
+    border: 1px solid #6b4b40;
+    border-radius: 0;
+    font-weight: 300;
+    transition: 0.4s;
+    width: 220px;
+    font-size: 25px;
+    padding: 15px 20px;
+    text-align: left;
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  .my-work a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 12px 212px;
+    font-weight: 600;
+    transition: 0.4s;
+    text-align: center;
+    margin: auto;
+    width: 150px;
+  }
+  .hdb-left {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .hdb-rt {
+    text-align: center;
+  }
+  .header-top-left h3 {
+    color: #db9a64;
+    margin-top: 30px;
+    font-size: 1.15rem;
+    text-align: center;
+  }
+  .header-top-middle ul {
+    list-style: none;
+    margin-top: 30px;
+    text-align: center;
+    margin-top: -2px;
+  }
+  .header-top-right {
+    text-align: center;
+  }
+  .clients-item img {
+    margin-left: -627px;
+  }
+}
+@media (max-width: 468px) {
+  .my-work a.btn {
+    color: #db9a64;
+    display: inline-block;
+    border: 2px solid #db9a64;
+    border-radius: 0;
+    padding: 12px 150px;
+    font-weight: 600;
+    transition: 0.4s;
+    text-align: center;
+    margin: auto;
+    width: 150px;
+  }
+}
+@media (max-width: 436px) {
+  .clients-item img {
+    margin-left: -688px;
+  }
+}
+@media (max-width: 425px) {
+  .clients-item img {
+    margin-left: -710px;
+  }
+}
